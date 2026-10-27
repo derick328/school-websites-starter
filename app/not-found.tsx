@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound(){return <main style={{minHeight:"100vh",display:"grid",placeItems:"center",background:"#FFFDF4",fontFamily:"Arial,sans-serif",textAlign:"center",padding:24}}><div><p style={{color:"#145B3C"}}>404 • PAGE NOT FOUND</p><h1 style={{fontSize:48,color:"#103F33"}}>This page took a little detour.</h1><p>There isn't a page here, but there's plenty more to explore.</p><Link href="/" style={{color:"#145B3C",fontWeight:700}}>Return to the homepage →</Link></div></main>}

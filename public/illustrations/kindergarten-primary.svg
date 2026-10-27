@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="670" viewBox="0 0 800 670" role="img" aria-label="Illustration of a welcoming school and students">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF5CF"/><stop offset="1" stop-color="#D7F0D7"/></linearGradient><pattern id="dots" patternUnits="userSpaceOnUse" width="35" height="35"><circle cx="5" cy="5" r="2" fill="#1A643F" opacity=".12"/></pattern></defs>
+<rect width="800" height="670" fill="url(#sky)"/><circle cx="643" cy="113" r="84" fill="#F4CF49"/>
+<path d="M0 511 Q235 442 432 522 T800 486 L800 670 L0 670Z" fill="#8FBF7D"/><path d="M0 585 Q265 526 510 587 T800 555 L800 670 L0 670Z" fill="#3B8C5C"/>
+<g transform="translate(130 120)"><rect x="0" y="105" width="525" height="337" rx="27" fill="#FFFDF4" stroke="#1C6A49" stroke-width="8"/><path d="M-18 106 L263 -34 L547 106Z" fill="#256E4F"/><rect x="203" y="275" width="120" height="167" rx="58" fill="#E5A645"/><rect x="217" y="288" width="91" height="154" rx="44" fill="#F5D37D"/>
+<rect x="59" y="172" width="103" height="110" rx="12" fill="#C5E2DB" stroke="#196247" stroke-width="7"/><path d="M110 173V282 M60 227H162" stroke="#196247" stroke-width="6"/>
+<rect x="361" y="172" width="103" height="110" rx="12" fill="#C5E2DB" stroke="#196247" stroke-width="7"/><path d="M412 173V282 M361 227H464" stroke="#196247" stroke-width="6"/>
+<rect x="200" y="92" width="126" height="57" rx="15" fill="#F5CA48"/><text x="263" y="129" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" fill="#17523A" font-weight="800">LEARN</text></g>
+<g opacity=".9"><path d="M70 493v112" stroke="#246F4C" stroke-width="12" stroke-linecap="round"/><circle cx="69" cy="469" r="49" fill="#A5C780"/><circle cx="40" cy="486" r="38" fill="#B4D695"/><path d="M735 483v120" stroke="#246F4C" stroke-width="13" stroke-linecap="round"/><circle cx="731" cy="459" r="53" fill="#9DC677"/><circle cx="764" cy="472" r="39" fill="#B4D695"/></g>
+<rect x="0" y="0" width="800" height="670" fill="url(#dots)" opacity=".55"/><g transform="translate(112 367) scale(0.74)"><ellipse cx="72" cy="284" rx="76" ry="12" fill="#144735" opacity=".13"/>
+      <path d="M57 206 L52 276 M91 206 L95 276" stroke="#194C3A" stroke-width="28" stroke-linecap="round"/>
+      <path d="M37 271 L59 271 M87 271 L107 271" stroke="#F9F7E8" stroke-width="16" stroke-linecap="round"/>
+      <path d="M39 119 Q8 108 0 63" stroke="#9F623F" stroke-width="19" stroke-linecap="round" fill="none"/><path d="M102 120 Q130 144 137 159" stroke="#9F623F" stroke-width="19" stroke-linecap="round" fill="none"/>
+      <path d="M40 106 Q73 88 105 106 L117 219 Q76 237 27 219 Z" fill="#E7AB5B"/>
+      <path d="M53 100 L70 124 L89 100" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="8" stroke-linecap="round"/>
+      <rect x="60" y="80" width="25" height="29" rx="11" fill="#9F623F"/>
+      <ellipse cx="72" cy="53" rx="49" ry="54" fill="#9F623F"/>
+      <path d="M23 47 C12 -17 125 -17 120 54 C109 37 111 21 87 15 C59 40 42 29 23 47Z" fill="#2D2A24"/>
+      <circle cx="55" cy="59" r="3.6" fill="#28251F"/><circle cx="89" cy="59" r="3.6" fill="#28251F"/>
+      <path d="M59 78 Q72 90 85 78" stroke="#7E3E30" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+     </g><g transform="translate(312 342) scale(0.83)"><ellipse cx="72" cy="284" rx="76" ry="12" fill="#144735" opacity=".13"/>
+      <path d="M57 206 L52 276 M91 206 L95 276" stroke="#1B6650" stroke-width="28" stroke-linecap="round"/>
+      <path d="M37 271 L59 271 M87 271 L107 271" stroke="#F9F7E8" stroke-width="16" stroke-linecap="round"/>
+      <path d="M39 119 Q4 137 10 180" stroke="#72432E" stroke-width="19" stroke-linecap="round" fill="none"/><path d="M102 120 Q136 137 130 176" stroke="#72432E" stroke-width="19" stroke-linecap="round" fill="none"/>
+      <path d="M40 106 Q73 88 105 106 L117 219 Q76 237 27 219 Z" fill="#EBCF58"/>
+      <path d="M53 100 L70 124 L89 100" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="8" stroke-linecap="round"/>
+      <rect x="60" y="80" width="25" height="29" rx="11" fill="#72432E"/>
+      <ellipse cx="72" cy="53" rx="49" ry="54" fill="#72432E"/>
+      <path d="M23 47 C12 -17 125 -17 120 54 C109 37 111 21 87 15 C59 40 42 29 23 47Z" fill="#2D2A24"/>
+      <circle cx="55" cy="59" r="3.6" fill="#28251F"/><circle cx="89" cy="59" r="3.6" fill="#28251F"/>
+      <path d="M59 78 Q72 90 85 78" stroke="#7E3E30" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+     </g><g transform="translate(526 365) scale(0.75)"><ellipse cx="72" cy="284" rx="76" ry="12" fill="#144735" opacity=".13"/>
+      <path d="M57 206 L52 276 M91 206 L95 276" stroke="#1F5543" stroke-width="28" stroke-linecap="round"/>
+      <path d="M37 271 L59 271 M87 271 L107 271" stroke="#F9F7E8" stroke-width="16" stroke-linecap="round"/>
+      <path d="M39 119 Q4 137 10 180" stroke="#B87552" stroke-width="19" stroke-linecap="round" fill="none"/><path d="M102 120 Q136 137 130 176" stroke="#B87552" stroke-width="19" stroke-linecap="round" fill="none"/>
+      <path d="M40 106 Q73 88 105 106 L117 219 Q76 237 27 219 Z" fill="#E6F4DF"/>
+      <path d="M53 100 L70 124 L89 100" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="8" stroke-linecap="round"/>
+      <rect x="60" y="80" width="25" height="29" rx="11" fill="#B87552"/>
+      <ellipse cx="72" cy="53" rx="49" ry="54" fill="#B87552"/>
+      <path d="M23 47 C12 -17 125 -17 120 54 C109 37 111 21 87 15 C59 40 42 29 23 47Z" fill="#2D2A24"/>
+      <circle cx="55" cy="59" r="3.6" fill="#28251F"/><circle cx="89" cy="59" r="3.6" fill="#28251F"/>
+      <path d="M59 78 Q72 90 85 78" stroke="#7E3E30" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+     </g><g transform="translate(492 495) rotate(10)"><rect width="69" height="54" rx="9" fill="#F9E1B3" stroke="#1E6845" stroke-width="4"/><text x="34" y="39" font-family="Arial" font-weight="bold" font-size="38" fill="#1E6845" text-anchor="middle">A</text></g>
+<g transform="translate(209 527) rotate(-12)"><rect width="55" height="54" rx="9" fill="#F8CE42"/><text x="27" y="39" font-family="Arial" font-weight="bold" font-size="36" fill="#1E6845" text-anchor="middle">B</text></g></svg>
